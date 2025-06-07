@@ -4,7 +4,7 @@ A Next.js application showcasing upcoming live webinars for Babynama, designed t
 
 ## 🚀 Live Demo
 
-**Live URL:** [Your Vercel deployment URL will go here](https://babynama-intern-assignment-eight.vercel.app/)
+**Live URL:** [(https://babynama-intern-assignment-eight.vercel.app/)]
 
 ## 📸 Screenshot
 
