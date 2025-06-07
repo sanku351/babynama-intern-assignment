@@ -69,8 +69,14 @@ components/
 ## 🚀 Getting Started
 
 1. Clone this repository
-2. Install dependencies: \`npm install\`
-3. Run the development server: \`npm run dev\`
+2. Install dependencies:
+```
+npm install
+```
+3. Run the development server:
+```
+npm runn dev
+```
 4. Open [http://localhost:3000/webinars](http://localhost:3000/webinars)
 
 ## 🔧 Technologies Used
@@ -99,4 +105,3 @@ The application is fully responsive and optimized for:
 ---
 
 Built with ❤️ for Babynama - Supporting parents with expert guidance
-\`\`\`
