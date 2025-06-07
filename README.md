@@ -69,13 +69,19 @@ components/
 ## 🚀 Getting Started
 
 1. Clone this repository
+```
+git clone https://github.com/sanku351/babynama-intern-assignment.git
+```
+
 2. Install dependencies:
 ```
+cd babynama-intern-assignment
 npm install
 ```
+
 3. Run the development server:
 ```
-npm runn dev
+npm run dev
 ```
 4. Open [http://localhost:3000/webinars](http://localhost:3000/webinars)
 
